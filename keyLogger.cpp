@@ -1,6 +1,6 @@
 /*
 
-CS 4626 - Spring 2023
+Spring 2023
 
 */
 
